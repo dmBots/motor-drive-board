@@ -1,7 +1,7 @@
 # DM Motor Driver Boards
 
 ## Overview
-- This folder is the entry point for DM motor driver board materials.
+- Supplemental entry note for DM motor driver board materials.
 - Model-specific materials live in each child folder.
 
 ## Documentation / Resources

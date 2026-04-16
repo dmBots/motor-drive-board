@@ -1,19 +1,19 @@
-# 达妙电机驱动板
+# DM Motor Driver Boards
 
-## 概述
-- 这里是 DM 系列电机驱动板资料入口。
-- 各型号驱动板资料按子目录分开维护。
+## Overview
+- This folder is the entry point for DM motor driver board materials.
+- Model-specific materials live in each child folder.
 
-## 文档 / 资源
+## Documentation / Resources
 - [DM43/](DM43/)
 - [DM60/](DM60/)
 - [DM80/](DM80/)
 - [DM100/](DM100/)
 
-## 快速开始
-- 先进入对应型号子目录，再阅读该型号自己的资料文件。
+## Quick Start
+- Enter the matching model folder first, then read the model-specific documents.
 
-## 状态
-- ZH: 主版
-- EN: Translation pending
-- TBD: 型号细节按子目录维护
+## Status
+- EN: main entry
+- ZH: Translation pending
+- TBD: model details are maintained in the child folders
