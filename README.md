@@ -1,37 +1,19 @@
 # 达妙电机驱动板
 
-#### 介绍
-DM 各系列电机驱动板
+## 概述
+- 这里是 DM 系列电机驱动板资料入口。
+- 各型号驱动板资料按子目录分开维护。
 
-#### 软件架构
-软件架构说明
+## 文档 / 资源
+- [DM43/](DM43/)
+- [DM60/](DM60/)
+- [DM80/](DM80/)
+- [DM100/](DM100/)
 
+## 快速开始
+- 先进入对应型号子目录，再阅读该型号自己的资料文件。
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 状态
+- ZH: 主版
+- EN: Translation pending
+- TBD: 型号细节按子目录维护

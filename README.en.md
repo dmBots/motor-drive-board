@@ -1,36 +1,19 @@
-# 达妙电机驱动板
+# DM Motor Driver Boards
 
-#### Description
-DM 各系列电机驱动板
+## Overview
+- This folder is the entry point for DM motor driver board materials.
+- Model-specific materials live in each child folder.
 
-#### Software Architecture
-Software architecture description
+## Documentation / Resources
+- [DM43/](DM43/)
+- [DM60/](DM60/)
+- [DM80/](DM80/)
+- [DM100/](DM100/)
 
-#### Installation
+## Quick Start
+- Enter the matching model folder first, then read the model-specific documents.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Status
+- EN: translation pending
+- ZH: source material exists in this subtree
+- TBD: model details are maintained in the child folders
